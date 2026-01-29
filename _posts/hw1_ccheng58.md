@@ -79,4 +79,4 @@ Given the following csv.gz file on data from imaging transcriptomic technologies
 __________________________________________________________
 I want to do the first option. Can you give me the format of the functions used? how could I be able to maximize salience of the data?
 __________________________________________________________
-can you so something more simple? i want a heatmap of only one specific gene, so just choose one. my professor coded this in class, and i kind of want mine to look like hers, i just don't know if the code i copied down is complete. I just don't want to make the code too complicated because we haven't actually learned much in lecture. 
+can you so something more simple? i want a heatmap of only one specific gene, so just choose one. my professor coded this in class, and i kind of want mine to look like hers.
